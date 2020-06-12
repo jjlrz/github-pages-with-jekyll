@@ -1,8 +1,8 @@
 title: A Little Bit About Joann
 author: Joann Lariza
 email: j711lrz@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-With this assignment, I would like to share some of my favorite accomplishments and extracurriculars that I partook in during high school.
+description: With this assignment, I would like to share some of my favorite accomplishments and extracurriculars that I partook in during high school. > # this means to ignore newlines until "baseurl:"
+
 
 # social links
 twitter_username: n/a # DO NOT include the @ character, or else the build will fail!

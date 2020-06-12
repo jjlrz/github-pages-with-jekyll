@@ -1,4 +1,7 @@
-
+---
+title: "My First Blog Post"
+date: 2020-06-12
+---
 My High School Brag sheet:
 National Honors Society - Member
 German Honors Society - President
